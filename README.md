@@ -2,4 +2,4 @@
 
  - Simple simon says game in javascript
 
- ![Demo Img](img/demo.jpg)
+ ![Demo Img](img/demo.png)
