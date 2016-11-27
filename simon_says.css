@@ -1,0 +1,54 @@
+.message {
+    color: white;
+    padding: 10px;
+    font-size: 1.4em;
+}
+
+.startSimonSays, .restartSimonSays {
+    display: inline-block;
+}
+
+.col-xs-6 {
+  margin:0 !important;
+  padding:0 !important;
+}
+
+.button_simon_says {
+  cursor: pointer;
+}
+
+.button_simon_says img {
+  cursor: pointer;
+  max-width: 300px;
+  width: 100%;
+}
+
+.button_simon_says.left {
+  float: right;
+}
+
+.button_simon_says.right {
+  float: left;
+}
+
+.text-wrapper {
+  position: absolute;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  width: 100%;
+  margin-top: 260px;
+  z-index: 10;
+}
+
+.text-wrapper .btn {
+  background: #f3f3f3;
+  border-radius: 3px;
+  padding: 10px;
+  width: auto;
+  cursor: pointer;
+}
+
+.text-wrapper .info {
+  color: #f3f3f3
+}
